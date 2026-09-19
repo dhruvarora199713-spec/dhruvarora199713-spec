@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+me.png
+README-backup.md
+assets/jacket.png
+assets/card-Sage-*.svg
+assets/card-Socrates-*.svg
+assets/card-dossier-*.svg
+assets/card-humanOS-*.svg

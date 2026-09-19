@@ -1,0 +1,11 @@
+{
+  "title": "Dhruv · skill radar",
+  "axes": [
+    { "label": "Python", "value": 80 },
+    { "label": "C++", "value": 75 },
+    { "label": "JavaScript", "value": 70 },
+    { "label": "Web Dev", "value": 72 },
+    { "label": "Machine Learning", "value": 68 },
+    { "label": "DSA", "value": 75 }
+  ]
+}

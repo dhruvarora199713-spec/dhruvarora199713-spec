@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "repo": "academia",
+      "description": "A web development project built to explore practical software design and implementation."
+    },
+    {
+      "repo": "DSA",
+      "description": "Data Structures and Algorithms practice, problem-solving notes, and coding solutions in C++."
+    },
+    {
+      "repo": "house-price-intelligence",
+      "description": "A machine-learning project for analyzing and predicting house prices from property data."
+    },
+    {
+      "repo": "RAG-project",
+      "description": "A Retrieval-Augmented Generation project that combines document search with AI-powered answers."
+    }
+  ]
+}
